@@ -12,6 +12,7 @@ Tenho formação técnica em **Manutenção e Suporte em Informática** pelo IFP
 - 🌐 **HTML**
 - 🎨 **CSS**
 - ⚡ **JavaScript**
+- 🐍 **Python**
 
 ---
 
