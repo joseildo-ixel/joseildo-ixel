@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Descrição da imagem]([https://link-da-imagem.com/imagem.png](https://media.licdn.com/dms/image/v2/D4D12AQGUgCuNPRQD9g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714104225367?e=2147483647&v=beta&t=7h4qmkAiuNnaUaj7yQXy3iKDxmDYrZCyVLVpeagFOYA))
 
 <!--
 **joseildo-ixel/joseildo-ixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
